@@ -1,11 +1,9 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//你好
-public class mySc : MonoBehaviour
+//你妹
+public class AAA : MonoBehaviour
 {
-    public string ss;
-    public Transform ts;
     // Start is called before the first frame update
     void Start()
     {
